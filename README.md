@@ -1,6 +1,6 @@
 # Falling Sand Simulation
 
-Fun JavaScript project to simulate falling sand.
+Fun JavaScript project to simulate falling sand made with p5.js.
 
 # ToDo
 
